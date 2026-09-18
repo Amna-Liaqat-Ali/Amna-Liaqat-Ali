@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B0E33,100:341C5E&height=170&text=Hi,%20I'm%20Amna%20&fontSize=42&fontColor=FFD60A&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20Karachi,%20Pakistan&descSize=15&descFontColor=C9B8E8&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B0E33,100:341C5E&height=170&text=Hi,%20I'm%20Amna%20👋&fontSize=42&fontColor=FFD60A&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20Karachi,%20Pakistan&descSize=15&descFontColor=C9B8E8&descAlignY=60" />
 
 </div>
 
@@ -28,15 +28,13 @@
 
 ## A bit about me
 
-I'm a Computer Science graduate in Karachi who likes taking a project from a blank file all the way to something people can actually open and use. Most of what I build ends up live rather than sitting in a repository, whether that's an AI app that judges how fresh a fish is, a voice assistant that talks back, or client infrastructure that has to keep working after I've moved on to the next thing.
-
-Right now I work as a Full Stack Engineer at **Arius Automation**, splitting my time between building **Clouzark**, a front-end hosting platform, and debugging **TalentRank**, a career assessment platform, alongside writing Playwright tests so the same bugs don't come back.
+I'm a Computer Science graduate based in Karachi, working as a Full Stack Engineer with a strong foundation across mobile, backend, and AI-integrated development. I care about writing clean, maintainable code and taking ownership of a project from its first line through to deployment and long-term upkeep, not just the parts that are easy or interesting.
 
 **A few things that are true about how I work:**
-- I ship fast. If it's not deployed, it doesn't really count yet.
-- I like AI that does something, not AI as a buzzword. Both my personal projects wire a real model into a real product.
-- I pick up new tools quickly and I'm usually mid-way through learning something slightly beyond what I already know.
-- Deadlines get respected. Coursework, client work, and personal projects all run at the same time and nothing quietly slips.
+- I ship fast and value momentum. Ideas matter less to me than what's actually working and live.
+- I approach AI with intent, integrating it to solve real problems rather than adding it as a buzzword.
+- I pick up new tools and frameworks quickly, and I'm usually a step ahead, already exploring something beyond my current comfort zone.
+- I take deadlines seriously. Coursework, client work, and personal projects have run in parallel without anything slipping.
 
 ---
 
@@ -84,19 +82,15 @@ Right now I work as a Full Stack Engineer at **Arius Automation**, splitting my 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amna-Liaqat-Ali&show_icons=true&hide_border=true&title_color=FFD60A&icon_color=FFD60A&text_color=C9B8E8&bg_color=1B0E33" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amna-Liaqat-Ali&layout=compact&hide_border=true&title_color=FFD60A&text_color=C9B8E8&bg_color=1B0E33" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amna-Liaqat-Ali&theme=2077" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Amna-Liaqat-Ali&hide_border=true&ring=FFD60A&fire=FFD60A&currStreakLabel=FFD60A&currStreakNum=FFFFFF&sideNums=FFFFFF&background=1B0E33&sideLabels=C9B8E8&dates=C9B8E8" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Amna-Liaqat-Ali&hide_border=true&ring=FFD60A&fire=FFD60A&currStreakLabel=FFD60A&currStreakNum=FFFFFF&sideNums=FFFFFF&background=1B0E33&sideLabels=C9B8E8&dates=C9B8E8" />
 
 </div>
-
----
 
 <div align="center">
 
